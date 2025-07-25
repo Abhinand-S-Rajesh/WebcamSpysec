@@ -3,7 +3,6 @@ from tkinter import messagebox
 import subprocess
 import webbrowser
 from PIL import Image, ImageTk
-import io
 import os
 import time
 import tempfile
